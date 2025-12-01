@@ -25,7 +25,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java)](https://github.com/NorvinCodes)
 
-<h3>Backend / Learning </h3>
+<h3> My Socials </h3>
 <p align="left">
   <a href="" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png" width="36" height="36" alt="Telegram" />
