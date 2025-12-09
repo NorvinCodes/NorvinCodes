@@ -13,7 +13,7 @@
 
 ###
 
-<h3>Front-end</h3>
+<h3>Front-end (Partial) </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwindcss,scss)](https://github.com/samodinn11)
 
