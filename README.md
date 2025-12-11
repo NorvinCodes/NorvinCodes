@@ -2,12 +2,8 @@
 
 
 
-  <img align="right" height="300" src="https://github.com/user-attachments/assets/d5f03185-a15b-4cdb-9486-d38f55c3d96b"  />
-
-
-
 ###
-
+  <img align="right" height="400" src="https://github.com/user-attachments/assets/ac51aa0f-6268-4495-906d-a98ad5026edd"  />
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=samodinn&color=F1C40F) 
 
